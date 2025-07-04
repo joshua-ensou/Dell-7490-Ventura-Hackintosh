@@ -2,10 +2,7 @@
 
 OpenCore EFI for macOS Ventura on Dell 7490 with Intel i5 8th Gen CPU.
 
-
-![Dell Github](https://user-images.githubusercontent.com/93620854/212483987-b0142f06-32e7-4b35-bacb-cc1947acd4a5.png)
-
-![Dell Github](https://raw.githubusercontent.com/joshua-ensou/comp2156/main/src/images/ventura.png)
+![Dell Github](https://user-images.githubusercontent.com/joshua-ensou/comp2156/main/src/images/ventura.png)
 
 
 
